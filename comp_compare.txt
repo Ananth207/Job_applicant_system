@@ -1,0 +1,2 @@
+MBA,Augumented Reality,3,Unity-Unreal Engine-Blender,4,day,100000,full-time,
+M.E,Coding,2,Python-C,3,day,125000,full-time,
